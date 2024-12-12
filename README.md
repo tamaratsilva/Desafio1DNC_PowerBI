@@ -30,9 +30,14 @@ Construir um painel para analisar as vendas de um e-commerce, com foco em métri
 ## Visualizações e Resultados  
 Os dashboards foram projetados para fornecer insights rápidos e claros, permitindo aos analistas identificar padrões de vendas, categorias mais lucrativas e comportamentos dos clientes. O objetivo é ajudar na tomada de decisões para estratégias comerciais mais eficazes.
 
+
+
 ## Como usar  
 - **Página 1:** Visão geral das vendas totais, com gráficos de performance por data e categoria.  
 - **Página 2:** Detalhamento das métricas por cliente, incluindo localização e análise de comportamento de compras.
+
+![image](https://github.com/user-attachments/assets/e1b15800-0e3d-4066-9707-a7d520dc3c3e)
+![image](https://github.com/user-attachments/assets/8f8a3839-1aad-45a2-bff5-cc4f85d6accc)
 
 ---
 
